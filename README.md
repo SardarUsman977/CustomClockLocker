@@ -1,5 +1,9 @@
 
 
+https://user-images.githubusercontent.com/79975101/110082579-585a6500-7daf-11eb-889a-75474a154f46.mp4
+
+
+
 # Custom Clock Lock
 
 An easy clock lock integration for your Android apps.
